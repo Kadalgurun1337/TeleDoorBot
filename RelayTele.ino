@@ -4,7 +4,7 @@
 
 const char* ssid = "Z-tech";  // Ganti dengan SSID WiFi kamu
 const char* password = "ngokngok";  // Ganti dengan password WiFi kamu
-const char* botToken = "7006935571:AAF44wIrEJ0x-r3QRd-XyM7wR2VXnQ38zAg";  // Ganti dengan token bot Telegram kamu
+const char* botToken = "";  // Ganti dengan token bot Telegram kamu
 const String chatID = "5663178105";  // Ganti dengan chat ID kamu (gunakan bot @userinfobot untuk mendapatkannya)
 
 WiFiClientSecure client;
