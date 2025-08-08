@@ -11,7 +11,7 @@
 #define WIFI_FAIL_FLAG_ADDR 95
 
 // Telegram Bot
-const char* BOTtoken = "8145038401:AAHCKHkJ6idv7vlffP7RnzMFlVPTjj3KtJE";
+const char* BOTtoken = "";
 WiFiClientSecure client;
 UniversalTelegramBot bot(BOTtoken, client);
 
